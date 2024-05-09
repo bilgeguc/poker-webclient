@@ -128,3 +128,16 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# IDE folders and files
+.idea/
+
+# app excludes
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
